@@ -1,2 +1,2 @@
-# RayzuRacingMapsAoTTG
-repository for my created racing maps for the Attack on Titan Tribute Game (AoTTG &amp; AoTTG2)
+# RayzuMapsAoTTG
+repository for my created custom maps for the Attack on Titan Tribute Game (AoTTG &amp; AoTTG2)
